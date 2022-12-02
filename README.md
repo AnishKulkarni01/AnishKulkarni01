@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anish Kulkarni
-- 🌱 I’m currently studying Computer Science at BITS Pilani 
+- 🌱 I’m currently studying Computer Science at BITS Pilani
+- 📓 This is my Github
 
 
 <!---
